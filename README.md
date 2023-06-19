@@ -20,6 +20,10 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer w
 - [E-commerce App](https://bengalirecipe.netlify.app/): An e-commerce application built with the MERN stack, allowing users to browse and purchase products.
 - [Toy app](https://toy-client-316c8.web.app/)): A task management application built with React.js and Node.js, enabling users to organize their tasks efficiently.
 
+  
+###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanoar-hossan&show_icons=true&locale=en&layout=compact" alt="sanoar" /></p>
+
 ### My GitHub Stats
 
 ![Sanoar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanoar-hossan&show_icons=true&theme=radical)
